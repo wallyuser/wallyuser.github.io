@@ -13,7 +13,7 @@ const config = {
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'wallyuser.github.io', // Usually your GitHub org/user name.
+  organizationName: 'wallyuser', // Usually your GitHub org/user name.
   projectName: 'wallyuser.github.io', // Usually your repo name.
   deploymentBranch: 'gh-pages',
   trailingSlash: false, 
